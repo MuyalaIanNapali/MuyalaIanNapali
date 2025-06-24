@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Profile banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Ian%20Muyala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**MuyalaIanNapali/MuyalaIanNapali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&lines=Backend+Developer+from+Kenya🇰🇪;Microservices+Enthusiast;Java+%7C+Spring+%7C+NestJS+%7C+Kafka;Let%27s+build+awesome+stuff!" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 Passionate about scalable backend architecture
+- 🧪 Currently building a **Kafka-based e-commerce system**
+- 🌐 Tech: `Java`, `Spring Boot`, `NestJS`, `PostgreSQL`, `Docker`, `Kafka`
+- ✍️ I occasionally write on software architecture (coming soon)
+- 📫 Reach me: **your.email@example.com**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,js,docker,kubernetes,postgres,kafka,git,github,linux&theme=dark" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuyalaIanNapali&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuyalaIanNapali&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuyalaIanNapali&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuyalaIanNapali&theme=gruvbox&column=7&margin-w=5&margin-h=5" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MuyalaIanNapali/MuyalaIanNapali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MuyalaIanNapali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> _"Code it clean, scale it smart, deploy it fast."_ 🚀
+
