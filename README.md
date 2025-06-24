@@ -13,17 +13,17 @@
 ### 🧠 About Me
 
 - 🎓 Passionate about scalable backend architecture
-- 🧪 Currently building a **Kafka-based e-commerce system**
-- 🌐 Tech: `Java`, `Spring Boot`, `NestJS`, `PostgreSQL`, `Docker`, `Kafka`
+- 🧪 Currently building a **Kafka-based university course managment system**
+- 🌐 Tech: `Java`, `Spring Boot`, `NestJS`, `PostgreSQL`, `Docker`, `Kafka`,`flutter`
 - ✍️ I occasionally write on software architecture (coming soon)
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **ian.muyala@strathmore.edu**
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,js,docker,kubernetes,postgres,kafka,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,spring,nestjs,ts,js,docker,kubernetes,postgres,kafka,git,github,linux&theme=dark" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ian.muyala@strathmore.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ian-napali-6ab216310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MuyalaIanNapali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
