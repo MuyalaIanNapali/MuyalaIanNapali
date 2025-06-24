@@ -49,7 +49,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/MuyalaIanNapali/MuyalaIanNapali/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/MuyalaIanNapali/MuyalaIanNapali/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
