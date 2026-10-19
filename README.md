@@ -10,10 +10,10 @@ Cyber Security student at Strathmore University (Kenya), focused on secure, dist
 
 ## Tech Stack
 
-**Languages:** Kotlin, Rust
-**Backend:** Spring Boot, Kafka
-**Data:** PostgreSQL
-**Infrastructure:** Docker, Kubernetes, Linux
+**Languages:** Kotlin, Rust  
+**Backend:** Spring Boot, Kafka  
+**Data:** PostgreSQL  
+**Infrastructure:** Docker, Kubernetes, Linux  
 **Tools:** Git, GitHub
 
 ## GitHub Stats
