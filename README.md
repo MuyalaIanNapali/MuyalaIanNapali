@@ -12,10 +12,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Passionate about scalable backend architecture
-- 🧪 Currently building a **Kafka-based university course managment system**
-- 🌐 Tech: `Java`, `Spring Boot`, `NestJS`, `PostgreSQL`, `Docker`, `Kafka`,`flutter`
-- ✍️ I occasionally write on software architecture (coming soon)
+- 🎓 Passionate about cyber security
+- 🧪 Currently building a **E2EE instant messaging system**
+- 🌐 Tech: `Kotlin`, `Spring Boot`, `Rust`, `PostgreSQL`, `Docker`, `Kafka`
 - 📫 Reach me: **ian.muyala@strathmore.edu**
 
 ---
@@ -23,7 +22,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter,spring,nestjs,ts,js,docker,kubernetes,postgres,kafka,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,spring,docker,kubernetes,postgres,kafka,git,github,linux&theme=dark" />
 </p>
 
 ---
@@ -64,5 +63,5 @@
 
 ---
 
-> _"Code it clean, scale it smart, deploy it fast."_ 🚀
+> _"Lets build secure systems"
 
